@@ -11,7 +11,8 @@ main {
     display: flex;
     flex-grow: 1;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
     background-color: lightsteelblue;
 
 }
