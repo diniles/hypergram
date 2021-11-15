@@ -1,0 +1,12 @@
+main {
+    display: flex;
+}
+
+#canvas {
+    width: 75%;
+}
+
+#controls {
+    background-color: aqua;
+
+}
